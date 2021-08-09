@@ -5,7 +5,7 @@
 
 
 #### 구성원 소개 
-이름:강지현
+이름:강지현   
 관심 컴포넌트: backend.ai-webui, backend.ai-manager, backend.ai-storage-proxy
 
 ...
