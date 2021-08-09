@@ -14,4 +14,5 @@
 관심 컴포넌트 : ...
 
 이름 : 이상훈  
-관심 컴포넌트 : backend.ai-manager, backend.ai-agent, backend.ai-webserver
+관심 컴포넌트 : backend.ai-manager, backend.ai-agent, backend.ai-webserver  
+인사말 : 어쩌다 팀장, 이상훈입니다. 많이 배우고 많이 나누고 많이 성장합시다!  
