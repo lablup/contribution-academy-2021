@@ -6,6 +6,6 @@
 
 #### 구성원 소개 
 이름:여종현   
-관심 컴포넌트: backend.ai-maanger, backend.ai-agent, backend.ai-cli
+관심 컴포넌트: backend.ai-manager, backend.ai-agent, backend.ai-cli
 
 ...
