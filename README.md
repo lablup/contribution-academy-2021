@@ -24,7 +24,8 @@ Steps to reproduce the behavior:
 3. Install Python 3.9.5 version to `pyenv`
 4. Change execute permission of `install-dev.sh`
 5. Execute `install-dev.sh`
-6. Installation stopped and throws error message `Your Python 3.9.5 is missing LZMA (XZ) support. Please reinstall or rebuild it.`.
+6. Installation stopped and throws error message like this:   
+   `Your Python 3.9.5 is missing LZMA (XZ) support. Please reinstall or rebuild it.`.   
 ...
 
 **Expected behavior**   
