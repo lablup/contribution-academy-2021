@@ -5,13 +5,15 @@
 
 #### 구성원 소개
 이름 : 김유정  
-관심 컴포넌트 : ...
+관심 컴포넌트 : backend.ai-webui, backend.ai-manager, backend.ai-webserver
+인사말 : 다양한 분들과 함께 일하고 성장할 수 있는 기회가 주어져 기쁩니다. 꼭 완주할 수 있도록 열심히 그리고 적극적으로 참여하겠습니다. 함께 열심히 해봐요~ 잘부탁드립니다!!
 
 이름 : 오진석  
 관심 컴포넌트 : ...
 
 이름 : 이예은  
-관심 컴포넌트 : ...
+관심 컴포넌트 : backend.ai-webserver
+인사말 : 안녕하세요! 컴퓨터공학과 2학년 재학중인 이예은입니다!! 많이 부족하지만 그만큼 노력하겠습니다:):)
 
 이름 : 이상훈  
 관심 컴포넌트 : backend.ai-manager, backend.ai-agent, backend.ai-webserver  
