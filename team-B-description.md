@@ -5,14 +5,27 @@
 
 
 #### 구성원 소개 
-이름:여종현   
-관심 컴포넌트: backend.ai-manager, backend.ai-agent, backend.ai-cli
 
-이름:서민경   
-관심 컴포넌트: backend.ai-docs, backend.ai-docs-webui
+##### 이름:여종현
+관심 컴포넌트: 
+[backend.ai-manager](https://github.com/lablup/backend.ai-manager), 
+[backend.ai-agent](https://github.com/lablup/backend.ai-agent), 
+[backend.ai-cli](https://github.com/lablup/backend.ai-cli)
 
-이름:강승일
-관심 컴포넌트: backend.ai-kernel, backend.ai-cli, backend.ai-webui
+##### 이름:서민경
+관심 컴포넌트: 
+[backend.ai-docs](https://github.com/lablup/backend.ai-docs), 
+[backend.ai-docs-webui](https://github.com/lablup/backend.ai-webui)
 
-이름:이태우
-관심 컴포넌트: backend.ai-manager, backend.ai-storage-proxy, backend.ai-agent, backend.ai-webserver
+##### 이름:강승일
+관심 컴포넌트: 
+[backend.ai-kernel](https://github.com/lablup/backend.ai-kernel), 
+[backend.ai-cli](https://github.com/lablup/backend.ai-cli), 
+[backend.ai-webui](https://github.com/lablup/backend.ai-webui)
+
+##### 이름:이태우
+관심 컴포넌트: 
+[backend.ai-manager](https://github.com/lablup/backend.ai-manager), 
+[backend.ai-storage-proxy](https://github.com/lablup/backend.ai-storage-proxy), 
+[backend.ai-agent](https://github.com/lablup/backend.ai-agent), 
+[backend.ai-webserver](https://github.com/lablup/backend.ai-webserver)
