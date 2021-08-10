@@ -19,7 +19,7 @@
 
 ##### 이름:강승일
 관심 컴포넌트: 
-[backend.ai-kernel](https://github.com/lablup/backend.ai-kernel), 
+[backend.ai-kernels](https://github.com/lablup/backend.ai-kernels), 
 [backend.ai-cli](https://github.com/lablup/backend.ai-cli), 
 [backend.ai-webui](https://github.com/lablup/backend.ai-webui)
 
