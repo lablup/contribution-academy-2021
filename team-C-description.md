@@ -11,7 +11,8 @@
 관심 컴포넌트 : ...
 
 이름 : 이예은  
-관심 컴포넌트 : ...
+관심 컴포넌트 : backend.ai-webserver
+인사말 : 안녕하세요! 컴퓨터공학과 2학년 재학중인 이예은입니다!! 많이 부족하지만 그만큼 노력하겠습니다:):)
 
 이름 : 이상훈  
 관심 컴포넌트 : backend.ai-manager, backend.ai-agent, backend.ai-webserver  
