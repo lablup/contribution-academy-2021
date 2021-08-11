@@ -6,3 +6,6 @@
 #### 구성원 소개
 이름: 김병철
 관심 컴포넌트: backend.ai-agent, backend.ai-common, backend.ai-webserver
+
+이름: 최은정
+관심 컴포넌트: backend.ai-webserver, backend.ai-manager, backend.ai-common
