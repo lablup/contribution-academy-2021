@@ -9,3 +9,6 @@
 
 이름: 최은정
 관심 컴포넌트: backend.ai-webserver, backend.ai-manager, backend.ai-common
+
+이름 : 김기혁
+관심 컴포넌트: backend.ai-kernels
